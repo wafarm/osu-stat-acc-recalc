@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import ossapi
 import os
 import json
