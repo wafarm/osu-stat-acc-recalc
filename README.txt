@@ -7,3 +7,5 @@ PyInstaller 我怎么调 Pandas 都搞不好，于是用 Python embedded 了
 如果遇到某张图找不到信息就在 osu! 里把这张图下下来，等星数计算完重复上面的操作就行了
 
 准备完成后，启动请双击 recalc.bat
+
+osu-helper 的源码在 https://github.com/wafarm/osu-helper
